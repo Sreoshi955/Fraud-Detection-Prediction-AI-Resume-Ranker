@@ -1,0 +1,36 @@
+📌 Data Analyst — Project Role Description
+Role Title: Data Analyst
+Project Role: Contributor – Data Handling & Insight Generation
+
+Responsibilities:
+
+Collect, clean, and preprocess structured/unstructured data for analysis
+
+Perform exploratory data analysis (EDA) to identify patterns, trends, and anomalies
+
+Apply statistical techniques and visualization tools to interpret and present key insights
+
+Collaborate with the development team to align data outputs with business/project goals
+
+Assist in building and evaluating machine learning models, where applicable
+
+Prepare concise dashboards and reports for stakeholders using tools like Excel, Power BI, or Tableau
+
+Tools & Technologies:
+
+Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+
+SQL for querying databases
+
+Jupyter Notebook/Google Colab for data exploration
+
+Git for version control
+
+Preferred Skills:
+
+Strong analytical mindset and attention to detail
+
+Understanding of data wrangling, feature engineering, and model evaluation
+
+Experience with data visualization and storytelling
+
